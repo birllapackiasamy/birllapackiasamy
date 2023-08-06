@@ -9,3 +9,11 @@
 <br/> In this article, I have explained the internals of linear regression, cost function and gradient descent. I have intentionally avoided the codes to make this article readable for ......</p>
 <!-- MEDIUM_BLOG:END -->
 
+###### -
+<!-- MEDIUM_BLOG:START -->
+<p align="left">
+<a href="https://medium.com/@birlla/the-test-pyramid-58b7fb3598fa" title="The Test Pyramid"><img src="https://miro.medium.com/v2/resize:fit:1072/format:webp/1*tU6LEkBFQu2A_Jc6Ajn0Dg.png" alt="Test Pyramid" width="250px" align="left" /></a>
+<a href="https://medium.com/@birlla/the-test-pyramid-58b7fb3598fa" title="The Test Pyramid"><strong>The Test Pyramid</strong></a>
+<div><strong>1 Apr 2019</strong></div>
+<br/> In the traditional software testing, we do the majority of testing either through User Interface or manually. The contribution of the unit tests is minimal compared to the UI and integration ......</p>
+<!-- MEDIUM_BLOG:END -->
