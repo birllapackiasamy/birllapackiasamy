@@ -8,8 +8,8 @@
 <div><strong>18 Feb 2025</strong></div>
 <br/> A firsthand account of what worked, what didn’t, and what teams should consider before rolling out copilot. When we first introduced GitHub Copilot into our team, we had two big questions ? ......</p>
 <!-- MEDIUM_BLOG:END -->
-###### -
 
+###### -
 <!-- MEDIUM_BLOG:START -->
 <p align="left">
 <a href="https://medium.com/@birlla/linear-regression-model-for-dummies-920000f72ecc" title="Linear Regression for dummies"><img src="https://miro.medium.com/v2/resize:fit:1120/format:webp/1*7jZVbQrHXov2q7u0_ZR_Kw.png" alt="Linear Regression for dummies" width="250px" align="left" /></a>
